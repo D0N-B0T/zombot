@@ -27,5 +27,5 @@ sponge = 'sponge.png'
 starfish = 'starfish.png'
 workerant = 'workerant.png'
 
-#transform this into a list
+#transform this into a list with 'imgs/' + mob
 mobslist = [piedra, spider, ladybug, normal_centipede, desert_centipede, evil_centipede, hornet, babyant, dandelion, bee, beetle, bubble, cactus, crab, digger, fireant, y_ladybug, b_ladybug, jellyfish, leech, queenant, sandstorm, scorpion, shell, soldierant, sponge, starfish, workerant]
